@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class FG_Character : MonoBehaviour
+public class Fighting_Character : MonoBehaviour
 {
     [Header("Character Settings")]
     [SerializeField] private float movementSpeed = 0.05f;

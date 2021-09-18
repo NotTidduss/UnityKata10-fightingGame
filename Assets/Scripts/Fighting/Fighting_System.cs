@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class FG_Settings : MonoBehaviour
+public class Fighting_System : MonoBehaviour
 {
     [Header("Key Bindings")]
     public KeyCode inputMoveRightP1 = KeyCode.D;

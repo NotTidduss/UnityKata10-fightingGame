@@ -7,18 +7,12 @@ What is a fighting game?
  - fight = 3 systems: attack, defend, grab (like rock paper scissors, really)
  - each fight mechanic is triggered by input
  - players have health also, first to hit 0 loses.
- 
-Flow:
-	- press start
-	- match starts
-	- fight happens
 
-Requirements:
-	- character models (with cubes)
-	- animations (attack & defend)
-	- scripts for the systems
+Current features:
+ * makeshift characters with basic animations
 
-Goals for session 1:
-	- clean code
-	- animations done
-	- attack a player and defend against attacks
+ToDo:
+- set feet to ground 0, not torso (at least fix anims)
+- fix P1 mirror issue
+- implement grab system
+- improve attack and defend systems
